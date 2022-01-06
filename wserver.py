@@ -686,7 +686,7 @@ async def set_priority(request):
 @routes.get('/')
 async def homepage(request):
 
-    return web.Response(text="<h1>See mirror-leech-telegram-bot <a href='https://www.github.com/anasty17/mirror-leech-telegram-bot'>@GitHub</a> By <a href='https://github.com/anasty17'>Anas</a></h1>", content_type="text/html")
+    return web.Response(text="<h1>👀See😋mirror-leech-telegram-bot😇 <a href='https://t.me/4gdrive_bot'>@🔰RedmiDrive🔰</a> By <a href='https://github.com/IdeaGsm'>Don😎</a></h1>", content_type="text/html")
 
 async def e404_middleware(app, handler):
 
